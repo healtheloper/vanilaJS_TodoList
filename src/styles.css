@@ -17,8 +17,8 @@ body {
   font-family: "Montserrat", "Jua", sans-serif;
 }
 .momentum_box {
-  height: 400px;
-  width: 1000px;
+  height: 100%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
