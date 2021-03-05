@@ -1,2 +1,7 @@
 # vanilaJS_challenge
- momentum
+ 
+ momentum clone
+ 
+ - use localStrage
+
+https://healtheloper.github.io/vanilaJS_challenge/
